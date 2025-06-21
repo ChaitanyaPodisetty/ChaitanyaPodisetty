@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @ChaitanyaPodisetty
 - 👀 I’m interested in AI
-- 🌱 I’m currently learning DSA
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me is to navachaitanyasrinivaspodisetty@gmail.com
 - 😄 Pronouns: He definitely.
